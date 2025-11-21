@@ -4,20 +4,20 @@
 # 📷 Demo Video
 ![sample](https://github.com/user-attachments/assets/8403dbd4-8644-42f4-abd3-572097321ec5)
 
-# Components Used:
-1️⃣ LCD (16x2) Display
-2️⃣ Ultrasonic Sensor (HC-SR04)
-3️⃣ LDR Sensor (Light Dependent Resistor)
-4️⃣ LED
-5️⃣ Buzzer
-6️⃣ SOS Button
-7️⃣ Power Supply
+# 🔨 Components Used:
+1️⃣ LCD (16x2) Display<br>
+2️⃣ Ultrasonic Sensor (HC-SR04)<br>
+3️⃣ LDR Sensor (Light Dependent Resistor)<br>
+4️⃣ LED<br>
+5️⃣ Buzzer<br>
+6️⃣ SOS Button<br>
+7️⃣ Power Supply<br>
 
-# Peripherals Used:
-1️⃣ ADC
-2️⃣ Input/Output
-3️⃣ Interrupt
-4️⃣ UART
+# ⚙️ Peripherals Used:
+1️⃣ ADC<br>
+2️⃣ Input/Output<br>
+3️⃣ Interrupt<br>
+4️⃣ UART<br>
 
 # 💬 Block Diagram
 <img width="787" height="521" alt="image" src="https://github.com/user-attachments/assets/32940e11-1103-437d-b946-6c2a428772e4" />
@@ -25,7 +25,7 @@
 # Circuit Implementation (Software: Proteus)
 <img width="767" height="667" alt="Screenshot 2025-11-21 185251" src="https://github.com/user-attachments/assets/27a98643-6d61-49b5-bb36-6d5a096ce019" />
 
-# Working Principle
+# 💪 Working Principle
 The ATmega2560 continuously reads input signals from the ultrasonic sensor, LDR, and
 SOS button.
 - When the LDR detects darkness (low voltage output), the LED automatically turns
