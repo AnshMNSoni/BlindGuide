@@ -7,6 +7,17 @@ Smart Assistive Stick for Visually Impaired Individuals
 # 💬 Block Diagram
 <img width="787" height="521" alt="image" src="https://github.com/user-attachments/assets/32940e11-1103-437d-b946-6c2a428772e4" />
 
+# Working Principle
+The ATmega2560 continuously reads input signals from the ultrasonic sensor, LDR, and
+SOS button.
+- When the LDR detects darkness (low voltage output), the LED automatically turns
+ON.
+- When the SOS button is pressed, the buzzer activates to alert nearby people.
+- The LCD displays the real-time status of the LED and buzzer.
+- This integration of sensors and output peripherals provides an intelligent, responsive,
+and power-efficient assistive solution.
+
+
 # 📢 Connect with Me
 - If you found this project helpful or have any suggestions, feel free to connect:
 
